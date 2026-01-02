@@ -34,8 +34,8 @@
 
 ## 🔥 GitHub stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yevale&" alt="yash-yevale" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yevale&" alt="yash-yevale" /></p>
 
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Yevale&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)]
+![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Yevale&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
