@@ -17,9 +17,17 @@
 
 - 📫 How to reach me **yashyevale23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z4AaPexDEzZRrzGGK_qKq3oaMoH8vpFj/view?usp=drive_link](https://drive.google.com/file/d/1Z4AaPexDEzZRrzGGK_qKq3oaMoH8vpFj/view?usp=drive_link)
+### 📄 Resume
 
-- ⚡ Fun fact **I learn fastest by building — every new concept becomes a project.**
+<p>
+  <a href="https://drive.google.com/file/d/1Z4AaPexDEzZRrzGGK_qKq3oaMoH8vpFj/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+- ⚡ Fun fact: **I learn fastest by building — every new concept becomes a project.**
+
+---
 
 ## 🌐 Socials:
 
