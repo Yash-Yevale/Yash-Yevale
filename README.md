@@ -37,7 +37,7 @@
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/Yash-Yevale">
-    <img title="GitHub Stats" alt="Yash's streak" src="https://streak-stats.demolab.com/?user=Yash-Yevale&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img title="GitHub Stats" alt="Yash's streak" src=""https://github-readme-streak-stats.herokuapp.com/?user=yash-yevale&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
