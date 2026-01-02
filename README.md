@@ -1,4 +1,4 @@
-Yash Yevale 
+Yash Yevale <br>
 🔭 I’m currently working on<br>Building scalable, user-centric web applications and strengthening my problem-solving foundation.<br><br>👯 I’m looking to collaborate on<br>Full-stack projects, Angular applications, and practical open-source initiatives.<br><br>🤝 I’m looking for help with<br>Production best practices, performance tuning, cloud deployments, and integrating AI features into real products.<br><br>🌱 I’m currently learning<br>- Data Structures & Algorithms (DSA) with Java  <br>- Angular  <br>- Linux for development and server management  <br>- AWS (EC2, S3, basics of cloud architecture)  <br>- Backend API design and DevOps workflows<br><br>💬 Ask me about<br>Web development, Angular, UI/UX decisions, SEO, and taking projects from idea to launch.<br><br>⚡ Fun fact<br>I learn fastest by building — every new concept becomes a project.
 
 
