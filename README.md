@@ -21,12 +21,17 @@
 
 - ⚡ Fun fact **I learn fastest by building — every new concept becomes a project.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash yevale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash yevale" height="30" width="40" /></a>
-<a href="https://instagram.com/yash__yevale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash__yevale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashyevale23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashyevale23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash_yevale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_yevale" height="30" width="40" /></a>
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://github.com/Yash-Yevale">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/Yash Yevale/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/Yash_Yevale/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/yashyevale23/">
+  <img src="https://img.shields.io/badge/-Hackerrank-00CC00?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
 </p>
 
 ## 💻 Tech Stack:
