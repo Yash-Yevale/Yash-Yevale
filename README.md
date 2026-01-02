@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Production best practices, performance tuning, cloud deployments, and integrating AI features into real products.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yash-Yevale?tab=repositories](https://github.com/Yash-Yevale?tab=repositories)
-
 - 💬 Ask me about **Web development, Angular, DSA (Java), SEO, and taking projects from idea to launch.**
 
 - 📫 How to reach me **yashyevale23@gmail.com**
