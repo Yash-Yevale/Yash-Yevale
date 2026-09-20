@@ -20,17 +20,6 @@
 
 - ⚡ Fun fact: **I learn fastest by building — every new concept becomes a project.**
 
-### 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Z4AaPexDEzZRrzGGK_qKq3oaMoH8vpFj/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge" />
-  </a>
-</p>
-
-
-
-
 ---
 
 ## 🌐 Socials:
