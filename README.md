@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-yevale&label=Profile%20views&color=0e75b6&style=flat" alt="yash-yevale" /> </p>
 
-- 🔭 I’m currently working on **INSIGHTLY “Empowering Indian brands with real consumer insights”**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA) with Java - Angular**
 
